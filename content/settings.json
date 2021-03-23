@@ -1,23 +1,23 @@
 {
-  "store_id": 1238,
-  "name": "tmoria",
   "domain": "tmoria.netlify.app",
-  "short_name": "tmoria",
-  "description": "tmoria",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
+  "name": "tmoria",
+  "short_name": "tmoria",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg",
+  "store_id": 1238,
+  "description": "tmoria",
+  "large_icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg"
 }
