@@ -1,23 +1,23 @@
 {
   "domain": "tmoria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#e1d9a8",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
-  "name": "tmoria",
-  "short_name": "tmoria",
+  "name": "TMoriá Semijoias",
+  "short_name": "TMoriá",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg",
+  "favicon": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg",
+  "secondary_color": "#d9dcac",
+  "icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
   "store_id": 1238,
-  "description": "tmoria",
-  "large_icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.29.54.jpeg"
+  "description": "Todas nossas peças acompanham certificado de garantia de 1 ano no banho, procuramos agregar beleza e sofisticação ao seu look, elevando cada vez mais a sua autoestima ",
+  "large_icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg"
 }
