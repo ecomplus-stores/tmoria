@@ -4,21 +4,22 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 7000,
       "slides": [
         {
-          "img": "/img/uploads/whatsapp-image-2021-03-08-at-19.05.22.jpeg",
+          "img": "/img/uploads/whatsapp-image-2021-03-09-at-12.45.41.jpeg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/whatsapp-image-2021-03-08-at-19.05.22.jpeg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/whatsapp-image-2020-05-30-at-08.50.23.jpeg",
+          "img": "/img/uploads/whatsapp-image-2021-03-23-at-18.34.47.jpeg",
           "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "mobile_img": "/img/uploads/whatsapp-image-2021-03-08-at-19.05.22.jpeg"
         }
       ]
     },
@@ -35,8 +36,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "TMoriá Semijoias ",
+      "description": ""
     }
   ]
 }
