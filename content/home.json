@@ -7,14 +7,15 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/whatsapp-image-2021-03-08-at-19.05.22.jpeg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "end": "2020-12-31T03:00:00.000Z",
+          "mobile_img": "/img/uploads/whatsapp-image-2021-03-08-at-19.05.22.jpeg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/whatsapp-image-2020-05-30-at-08.50.23.jpeg",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
