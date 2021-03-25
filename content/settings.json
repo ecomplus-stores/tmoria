@@ -1,9 +1,9 @@
 {
   "domain": "tmoria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e1d9a8",
+  "primary_color": "#ece6bb",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "journal",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
   "country_code": "BR",
-  "secondary_color": "#d9dcac",
+  "secondary_color": "#d4cc96",
   "icon": "/img/uploads/whatsapp-image-2021-03-23-at-17.28.15.jpeg",
   "store_id": 1238,
   "description": "Todas nossas peças acompanham certificado de garantia de 1 ano no banho, procuramos agregar beleza e sofisticação ao seu look, elevando cada vez mais a sua autoestima ",
