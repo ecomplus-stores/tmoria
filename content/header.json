@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Varejo e Atacado ",
+    "link": "/promotion",
+    "background": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +11,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Atacado",
+        "link": "https://api.whatsapp.com/send?phone=5519996676495"
       }
     ],
     "phone_wpp": true,
