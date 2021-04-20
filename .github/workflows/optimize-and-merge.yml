@@ -7,7 +7,8 @@ jobs:
     name: Optimize repository images
     runs-on: ubuntu-latest
     if: |
-       !contains(github.event.pull_request.title, '[skip ci]')
+       !contains(github.event.pull_request.title, '[skip ci]') &&
+       !startsWith(github.head_ref, 'chore')
 
     steps:
       - name: Checkout
@@ -25,16 +26,19 @@ jobs:
 
     steps:
       - name: Wait images optimization
+        if: |
+           !contains(github.event.pull_request.title, '[skip ci]') &&
+           !startsWith(github.head_ref, 'chore')
         run: sleep 120
 
-      - name: Request Dependabot merge
+      - name: Squash and merge
         uses: actions/github-script@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            await github.issues.createComment({
-              issue_number: context.issue.number,
+            await github.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '@dependabot squash and merge'
+              pull_number: context.payload.pull_request.number,
+              merge_method: 'squash'
             })
