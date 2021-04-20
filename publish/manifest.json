@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b94ac4118021b370bc89a3ae79e3b104.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.0449a90023cdbd3ec053b2320da62d70.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.c82d7c1007fb2ef100be02be296fcb46.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d6efb75ad14d5cf058a3b925084515f6.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.3456ca9be0d040ca3de567b3e98bac7b.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "TMoriá Semijoias",
+  "short_name": "TMoriá",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Todas nossas peças acompanham certificado de garantia de 1 ano no banho, procuramos agregar beleza e sofisticação ao seu look, elevando cada vez mais a sua autoestima ",
+  "background_color": "#ffffff",
+  "theme_color": "#ece6bb"
+}
